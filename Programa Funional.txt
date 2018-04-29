@@ -1,0 +1,7 @@
+Programa Funcionando
+29-04-2018 (Atualizado no Dropbox)
+
+Erros:
+javaw.exe fica execuantado quando usado a versão .jar
+Logs de erro no final da coleta de dados, mas isso não afeta a coleta
+ 

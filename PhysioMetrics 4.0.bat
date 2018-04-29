@@ -1,0 +1,1 @@
+start /realtime nome_do_executavel_do_programa.exe
