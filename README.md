@@ -5,19 +5,19 @@
 </p>
 
 
-<br>Autor: Victor Moreira (UFPR) </br>
-<br>Colaborador: Rodrigo Carvalho (UFPA) </br>
-<br>Orientadora: Maria Lúcia Okimoto (PPG-MEC UFPR) </br>
+<br><b> Autor</b>: Victor Moreira (UFPR) </br>
+<br><b>Colaborador</b>: Rodrigo Carvalho (UFPA) </br>
+<br><b>Orientadora</b>: Maria Lúcia Okimoto (PPG-MEC UFPR) </br>
 
-Sobre: Este é o resultado da pesquisa de Mestrado em Design de Victor Moreira. O Projeto Phsiometrics é composto por Hardware e Software que tem como objetivo principal a mensuração de emoções fisiológicas de jogadores de videogame. O diferencial dessa ferramenta é o baixo custo, replicabilidade e possibilidade de modificação, incrementação e evolução. 
+<b> Sobre </b> : Este é o resultado da pesquisa de Mestrado em Design de Victor Moreira. O Projeto Phsiometrics é composto por Hardware e Software que tem como objetivo principal a mensuração de emoções fisiológicas de jogadores de videogame. O diferencial dessa ferramenta é o baixo custo, replicabilidade e possibilidade de modificação, incrementação e evolução. 
 
-Dissertação de Mestrado:
+<b>Dissertação de Mestrado</b>
 https://www.prppg.ufpr.br/siga/visitante/trabalhoConclusaoWS?idpessoal=57615&idprograma=40001016053P0&anobase=2019&idtc=51
 
-Artigos Científicos 
+<b>Artigos Científicos </b>
 https://link.springer.com/chapter/10.1007/978-3-319-94944-4_14
 
-Página no Facebook
+<b>Página no Facebook</b>
 https://www.facebook.com/physiometrics
 
 <!-- ABOUT THE PROJECT -->
@@ -29,20 +29,20 @@ Utilizamos o Arduino Nano para ligar três sensores: batimentos cardíacos (HR),
 <p align="center">
     <img src="Imagens/Placa PhysioMetrics_v3_pcb.png" >
 
-    <br> FIGURA 1: Ligações elétricas dos sensores de HR e GSR no Arduino Uno. </br>
-    <br> FONTE: Elaborado pelo autor <br>
+<p align="center"> FIGURA 1: Ligações elétricas dos sensores de HR e GSR no Arduino Uno.
+FONTE: Elaborado pelo autor. </p>
 </p>
 
 
 ### Links para Comprar os Dispositivos
 
-*Arduino Nano
+<br><b>Arduino Nano</b></br>
 https://www.filipeflop.com/produto/placa-nano-v3-0-cabo-usb-para-arduino/?gclid=CjwKCAjw8ZHsBRA6EiwA7hw_sZfrv0z6qXOixUKzI5DDepx6PAaZvYPJeiHsdBKxV8wVnraIBOHKWxoCZqkQAvD_BwE
 
-*Grove - Ear-clip Heart Rate Sensor
+<br><b>Grove - Ear-clip Heart Rate Sensor</b></br>
 https://www.seeedstudio.com/Grove-Ear-clip-Heart-Rate-Sensor-p-1116.html
 
-*Grove - GSR sensor
+<br><b>Grove - GSR sensor</b></br>
 https://www.seeedstudio.com/Grove-GSR-sensor-p-1614.html
 
 Após conectar o Arduino ao computador via porta USB, torna-se possível a comunicação Arduino-Computador. Para usar o código que projetamos para o Reconhecimento do Sistema é necessário instalar um complemento no Arduino IDE. Através do link https://github.com/jrullan/neotimer é possível baixar o Timer without delay-master, esse complemento fornece a possibilidade de imprimir dados temporais mais exatos. No caso da nossa aplicação iremos imprimir 10 dados por segundo, e por isso usamos esse complemento a fim de tornar os dados mais consistentes temporalmente.
@@ -52,8 +52,8 @@ No código para o Arduino programamos duas formas de saída de dados, uma para a
 <p align="center">
     <img src="Imagens/print 2.png" >
 
-    <br> FIGURA 2: Reconhecendo o sistema. </br>
-    <br> FONTE: Elaborado pelo autor <br>
+<p align="center"> FIGURA 2: Reconhecendo o sistema. 
+FONTE: Elaborado pelo autor </p>
 </p>
 
 
@@ -65,8 +65,8 @@ Antes de começar esse passo, é necessário reenviar o código para o Arduino �
 <p align="center">
     <img src="Imagens/Projeto_LabErg_Participante_Fernando_Coleta__n_1tela.mp4_snapshot_00.02_[2018.03.06_13.20.48].jpg" >
 
-    <br> FIGURA 3: Execução do programa Physiometrics através do NetBeans. </br>
-    <br> FONTE: Elaborado pelo autor <br>
+<p align="center"> FIGURA 3: Execução do programa Physiometrics através do NetBeans. 
+FONTE: Elaborado pelo autor </p>
 </p>
 
 
