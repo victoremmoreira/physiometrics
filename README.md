@@ -1,13 +1,5 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-<!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/...">
-    <img src="images/logo.png" alt="Logo" width="w" height="h">
-  </a>
+    <img src="Imagens/Physio(m)etrics.png" >
 
   <h3 align="center">Projeto Physiometrics</h3>
 </p>
